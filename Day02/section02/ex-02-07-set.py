@@ -44,4 +44,6 @@ thisset.pop()
 print(thisset)
 
 # 비우기
+thisset = {"피카츄", "라이츄", "파이리"}
 thisset.clear()
+print(thisset)

@@ -1,0 +1,36 @@
+ 아나콘다 사이트 접속
+-구글 아나콘다 검색
+-다운로드 istall 실행
+-설치
+-아나콘다 설치시 경로 확인
+-파이썬 설치 포함, 가상환경 관리가 편하다
+
+ Pycharm 설치
+-구글 파이참 검색
+-Pycharm community 다운
+-설치
+
+ git 설치
+-구글에서 git 검색
+-Download for windows 클릭
+-64-bit Git for Windows Setup 클릭
+-다운
+
+ git 사용자 이름 & 이메일 주소 등록
+-윈도우 cmd
+```
+# git 버전 확인
+git --version
+#사용자 이름 & 이메일 등록
+git config --global user.name "사용자명"
+git config --global user.email 이메일 주소
+```
+git config --global user.name "2SKY"
+git config --global user.email apzkemfht@gmail.com
+
+ github 회원가입
+-구글 github 검색
+-접속 회원가입
+
+ 수업자료 주소
+-github.com/dobby2024/PythonProject
